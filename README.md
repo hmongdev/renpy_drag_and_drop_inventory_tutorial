@@ -1,0 +1,2 @@
+# renpy_drag_and_drop_inventory_tutorial
+# renpy_drag_and_drop_inventory_tutorial
